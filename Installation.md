@@ -17,7 +17,7 @@ This document provides step-by-step instructions to install the necessary tools 
    - Verify the installation by running `java -version` in your terminal.
 
 ### Video Guide:
-[Click here for reference video for JDK Installation](https://www.youtube.com/watch?v=5LlfwQ4xzXc)
+[Click here for reference video for JDK Installation](https://www.youtube.com/watch?v=-hxCPXjYWJU)
 
 ## 2. Install Jenkins
 **Version:** Jenkins LTS version 2.387.1 or later
